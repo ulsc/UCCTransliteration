@@ -11,7 +11,7 @@ For Swift version, please check [here](https://github.com/ulsc/UCCTransliteratio
 
 [CocoaPods](http://cocoapods.org) is the recommended way to add UCCTransliteration to your project.
 
-1. Add a pod entry for UCCTransliteration to your Podfile `pod 'UCCTransliteration', '~> 1.0'`
+1. Add a pod entry for UCCTransliteration to your Podfile `pod 'UCCTransliteration', '~> 1.0.1'`
 2. Install the pod(s) by running `pod install`.
 3. Include UCCTransliteration wherever you need it with `#import "UCCTransliteration.h"`.
 
