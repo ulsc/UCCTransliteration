@@ -7,7 +7,7 @@ For Swift version, please check [here](https://github.com/ulsc/UCCTransliteratio
 
 ## Adding UCCTransliteration to your project
 
-### Cocoapods
+### CocoaPods
 
 [CocoaPods](http://cocoapods.org) is the recommended way to add UCCTransliteration to your project.
 
